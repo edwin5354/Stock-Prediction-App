@@ -13,7 +13,7 @@ START = '2020-01-01'
 current = datetime.today().strftime('%Y-%m-%d')
 
 st.text("Money (That's What I Want)")
-st.audio(r"C:\Users\Edwin\Python\bootcamp\Projects\Project_2\Money (That's What I Want).mp3",format='audio/mp3', loop=True)
+st.audio("Money (That's What I Want).mp3",format='audio/mp3', loop=True)
 st.title('Stock Market Trend Analysis 2024')
 st.write('Welcome to the Stock Market Trend App. This platform is intended for educational purposes only, focusing on Web Scraping and Prophet. Please refrain from using it as financial advice.')
 stocks = stock_scrap()
