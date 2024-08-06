@@ -1,0 +1,8 @@
+BeautifulSoup
+requests
+re
+yfinance
+pandas
+numpy
+prophet
+datetime
