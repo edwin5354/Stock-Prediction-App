@@ -1,8 +1,7 @@
 BeautifulSoup
 requests
-re
+streamlit
 yfinance
 pandas
 numpy
 prophet
-datetime
