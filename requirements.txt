@@ -5,5 +5,3 @@ yfinance
 pandas
 numpy
 prophet
-re
-datetime
