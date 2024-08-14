@@ -5,7 +5,6 @@ from datetime import datetime
 import yfinance as yf
 import pandas as pd
 from web_scraping import stock_scrap
-import numpy as np
 from prophet import Prophet
 # -----------------------------------------------------------------------------------
 # Streamlit Application
